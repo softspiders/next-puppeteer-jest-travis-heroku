@@ -2,9 +2,27 @@
 
 ---
 
+
+## Feature tags
+
+- build
+- ci
+- cd
+- deploy
+- express
+- heroku
+- jest
+- next
+- puppeteer
+- template
+- travis
+- nodejs
+
+---
+
 ## Direct feature ancestors
 
-TBD
+[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
 
 ---
 
