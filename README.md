@@ -12,7 +12,7 @@
 - express
 - heroku
 - jest
-- next
+- nextjs
 - puppeteer
 - template
 - travis
