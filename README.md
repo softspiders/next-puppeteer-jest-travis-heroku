@@ -23,7 +23,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
+[puppeteer-jest-travis-heroku](https://github.com/softspiders/puppeteer-jest-travis-heroku)
 
 ---
 
